@@ -1,0 +1,3 @@
+A simple file-sharing application which works on peer to peer principle. 
+Initially all the clients have to login into a well known hub. The hub maintains the file list of each client. 
+Besides that it provides search facility for files. The hub provides the address of seeders and the peer application makes the connection and downloads the file.   
